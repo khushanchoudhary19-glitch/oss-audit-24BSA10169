@@ -3,6 +3,7 @@
 ## Student Details
 
 Name - Khushan Choudhary
+
 Registration Number - 24BSA10169
 
 ## Chosen Software
