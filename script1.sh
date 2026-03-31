@@ -3,7 +3,7 @@
 # Author: Prathamesh Kumar | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Prathamesh Kumar"
+STUDENT_NAME="Khushan Choudhary"
 SOFTWARE_CHOICE="Visual Studio Code"
 
 # --- System Info ---
